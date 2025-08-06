@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Deber_Busqueda_Binaria</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Nico\OneDrive - Pontificia Universidad Católica del Ecuador\Repositorio\Ordenamiento Burbuja.cs" Link="Ordenamiento Burbuja.cs" />
+  </ItemGroup>
+
+</Project>
